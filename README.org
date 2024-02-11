@@ -1,0 +1,9 @@
+* trivial-system-loader
+
+A system installation/loading abstraction for Common Lisp
+
+|---------+----------------------------------------------------------|
+| source  | git:https://github.com/atgreen/trivial-system-loader.git |
+| commit  | 25348da                                                  |
+| systems | trivial-system-loader                                    |
+|---------+----------------------------------------------------------|
