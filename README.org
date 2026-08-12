@@ -7,4 +7,4 @@ A system installation/loading abstraction for Common Lisp
 | commit  | 4e22485                                                  |
 | systems | trivial-system-loader                                    |
 |---------+----------------------------------------------------------|
- 
+  
